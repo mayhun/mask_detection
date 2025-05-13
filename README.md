@@ -1,5 +1,5 @@
 # 🚀 마스크 착용 탐지
-> 코로나 시기에 마스크 착용 의무화로 인해 AI를 활용한 마스크 착용 탐지 시스템
+> (2021년 저작권 보호기술 팀 프로젝트) 코로나 시기에 마스크 착용 의무화로 인해 AI를 활용한 마스크 착용 탐지 시스템
 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
